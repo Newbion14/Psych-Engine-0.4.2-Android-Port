@@ -1,0 +1,31 @@
+{
+	"storyName": "lost shaggy song...",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "lost",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Ultra Instinct",
+			"shaggy",
+			[
+				80,
+				133,
+				73
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "shaggy-week"
+}
