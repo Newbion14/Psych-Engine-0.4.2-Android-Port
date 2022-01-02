@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dog.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="scoobydoo0000" x="0" y="0" width="196" height="258" frameX="-5" frameY="-5" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0001" x="196" y="0" width="194" height="257" frameX="-4" frameY="-6" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0002" x="390" y="0" width="197" height="257" frameX="0" frameY="-6" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0003" x="587" y="0" width="191" height="259" frameX="-3" frameY="-4" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0004" x="778" y="0" width="185" height="261" frameX="-5" frameY="-2" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0005" x="963" y="0" width="181" height="263" frameX="-6" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0006" x="1144" y="0" width="182" height="263" frameX="-6" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0007" x="1326" y="0" width="182" height="263" frameX="-6" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0008" x="1508" y="0" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0009" x="1691" y="0" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0010" x="0" y="263" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0011" x="183" y="263" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0012" x="366" y="263" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0013" x="549" y="263" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0014" x="732" y="263" width="182" height="261" frameX="-4" frameY="-2" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0015" x="914" y="263" width="184" height="258" frameX="-1" frameY="-5" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0016" x="1098" y="263" width="181" height="257" frameX="-4" frameY="-6" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0017" x="1279" y="263" width="180" height="257" frameX="-5" frameY="-6" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0018" x="1459" y="263" width="180" height="259" frameX="-5" frameY="-4" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0019" x="1639" y="263" width="180" height="261" frameX="-5" frameY="-2" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0020" x="1819" y="263" width="183" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0021" x="0" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0022" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0023" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0024" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0025" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0026" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0027" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0028" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+	<SubTexture name="scoobydoo0029" x="184" y="526" width="184" height="263" frameX="-5" frameY="0" frameWidth="201" frameHeight="263"/>
+</TextureAtlas>
